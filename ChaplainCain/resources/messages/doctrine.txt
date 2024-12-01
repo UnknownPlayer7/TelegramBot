@@ -1,0 +1,11 @@
+Question: "What is your duty?"
+
+Answer: "To serve the Emperor's will."
+
+Question: "What is the Emperor's will?"
+
+Answer: "That we fight and die."
+
+Question: "What is death?"
+
+Answer: "It is our duty."
